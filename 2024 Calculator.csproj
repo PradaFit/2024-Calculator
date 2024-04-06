@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>_2024_Calculator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>spotted.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="spotted.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Aresio Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Aresio Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="BlackShades">
+      <HintPath>..\..\..\..\Documents\C# themes\BlackShades Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>..\..\..\..\Documents\C# themes\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\Documents\C# themes\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress">
+      <HintPath>..\..\..\..\Documents\C# themes\Bunifu UI WinForms 1.11.5.1\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Class Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Classic Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="cypher theme">
+      <HintPath>..\..\..\..\Documents\C# themes\cypher theme.dll</HintPath>
+    </Reference>
+    <Reference Include="DarkSky theme">
+      <HintPath>..\..\..\..\Documents\C# themes\DarkSky theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Deimos Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Deimos Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Effectual Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Effectual Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Elegant Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Elegant Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Facebook Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Fader Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Fader Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Grey Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Grey Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Hura Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Hura Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Login Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Login Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="onlykl theme">
+      <HintPath>..\..\..\..\Documents\C# themes\onlykl theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Redemption theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Redemption theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Simpleblue Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Simpleblue Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary7">
+      <HintPath>..\..\..\..\Documents\C# themes\Unique.dll</HintPath>
+    </Reference>
+    <Reference Include="Ubuntu Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\Ubuntu Theme.dll</HintPath>
+    </Reference>
+    <Reference Include="Xtreme theme">
+      <HintPath>..\..\..\..\Documents\C# themes\light hura theme.dll</HintPath>
+    </Reference>
+    <Reference Include="xVisual Theme">
+      <HintPath>..\..\..\..\Documents\C# themes\xVisual Theme.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

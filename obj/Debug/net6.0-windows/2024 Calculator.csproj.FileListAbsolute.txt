@@ -1,0 +1,46 @@
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\2024 Calculator.exe
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\2024 Calculator.deps.json
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\2024 Calculator.runtimeconfig.json
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\2024 Calculator.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\2024 Calculator.pdb
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Aresio Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\BlackShades Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Classic Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\cypher theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\DarkSky theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Deimos Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Effectual Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Elegant Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Facebook Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Fader Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Grey Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Hura Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\light hura theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Login Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\onlykl theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Redemption theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Simpleblue Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Ubuntu Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Unique.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\xVisual Theme.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.Core.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\bin\Debug\net6.0-windows\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.csproj.AssemblyReference.cache
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.csproj.GenerateResource.cache
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.AssemblyInfoInputs.cache
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.AssemblyInfo.cs
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.csproj.CopyComplete
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\refint\2024 Calculator.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.pdb
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\2024 Calculator.genruntimeconfig.cache
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\ref\2024 Calculator.dll
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\_2024_Calculator.Main.resources
+C:\Users\Tiger\source\repos\2024 Calculator\2024 Calculator\obj\Debug\net6.0-windows\_2024_Calculator.Properties.Resources.resources
